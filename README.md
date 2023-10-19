@@ -1,1 +1,1 @@
-# gl_devops_101_course-app-go-svg
+# GlobalLogic DEVOPS101 course app-go-svg
