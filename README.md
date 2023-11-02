@@ -12,7 +12,7 @@ This repository contains a demo web page with SVG animation and a server created
 To run this demo locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/AntinDehoda/gl_devops_101_course-app-go-svg.git`
-2. Navigate to the project directory: `gl_devops_101_course-app-go-svg.`
+2. Navigate to the project directory: `cd gl_devops_101_course-app-go-svg`. 
 3. Build docker image `sudo docker build -t app-go-svg .`
 4. Start the docker container: `sudo docker run -d -p 8080:8080 app-go-svg`
 5. Open the web page in your browser: `127.0.0.1:8080`.
